@@ -1,0 +1,16 @@
+{
+    "short_name": "Karolina",
+    "name": "Karol",
+    "icons":[
+        {
+        "src": "veneno.png",
+        "sizes": "256x256",
+        "type": "image/png"
+    }],
+
+"start_url": "index.html",
+"display": "standalone",
+"orientation": "portrait",
+"background_color": "rgb(146, 242, 156)"
+
+}
